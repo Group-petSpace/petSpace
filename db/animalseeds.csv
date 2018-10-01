@@ -1,0 +1,5 @@
+id,name,category,breed,gender,temperament,photoURL,description,shelter_owner
+1,Coco,dog,doberman,m,4,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12233900/Doberman-Pinscher-On-White-01.jpg,"Coco is a real good dogo. His demeanor is stoic, and also comforting.",OC Animal Care
+2,Peppy,dog,chihuahua,f,7,https://s3.amazonaws.com/cdn-origin-etr.akc.org/wp-content/uploads/2017/11/12234710/Chihuahua-On-White-03.jpg,Peppy is a wonderful addition to your life. Her wonderful energy will help you through your days.,Irvine Animal Care Center
+3,Cheeseball,cat,maine coon,f,3,https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUn2tJf0iLdWdsABncVvW_yeLuvvMdIYswu-_4k2xF5WUkjPmm,Cheeseball likes to entertain with her antics but is not very affectionate.,OC Animal Care
+4,Bobo,cat,calico,m,8,https://www.catster.com/wp-content/uploads/2018/03/Calico-cat.jpg,Bobo is super off the wall and a little bit wild. If you're a fan of hyperactivity then he's exactly what you're looking for.,Irvine Animal Care Center
