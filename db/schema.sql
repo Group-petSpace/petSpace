@@ -1,0 +1,3 @@
+CREATE DATABASE petSpace;
+
+-- USE DATABASE petSpace;
