@@ -1,0 +1,32 @@
+{
+  "name": "petSpace",
+  "version": "1.0.0",
+  "description": "A pet-centered social-media web application that [insert mission statement]. This application utilizes Node, Express Web Server, [insert new library, package, or technology used]. The back-end of the application  is built using MySQL with a [insert ORM used]. GET and POST routes are used for retrieving and adding new data. You can view the application on Heroku: [insert heroku link].",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Group-petSpace/petSpace.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Group-petSpace/petSpace/issues"
+  },
+  "homepage": "https://github.com/Group-petSpace/petSpace#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mysql2": "^1.5.3",
+    "sequelize": "^4.38.0"
+  }
+}
